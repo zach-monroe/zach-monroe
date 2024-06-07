@@ -7,7 +7,7 @@ Self-taught and aspiring Full Stack Dev.
 
 #### Summary:
 A full-stack booknotes web-app with a twist.
-Users can create their own compendium in animated notebooks [inspired by famous author Ryan Holliday](https://www.youtube.com/watch?v=gT1EExZkzMM).
+Users can create their own compendium in animated notebooks. ([This was inspired by famous author Ryan Holliday](https://www.youtube.com/watch?v=gT1EExZkzMM).)
 
 #### Features:
 - Users can create unique profiles and posts about their favorite books. (These posts are called "Reads" and users have CRUD functionality)
