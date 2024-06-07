@@ -25,7 +25,9 @@ Checkout the repo (linked above) for more information.
 ### What I Plan To Learn Next:
 - Typescript
 
-### Tools I'm Currently Using
+---
+
+#### Tools I'm Currently Using
 
 - Front-End:
   - React
