@@ -45,7 +45,7 @@ Checkout the repo (linked above) for more information.
   - Neovim
 
 - OS:
-    - Debian (checkout my [dotfiles](https://github.com/zach-monroe/deb-dots))
+    - Debian (checkout my [dotfiles](https://github.com/zach-monroe/dotfiles))
 
 
 
