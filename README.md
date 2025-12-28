@@ -19,8 +19,9 @@ Checkout the repo (linked above) for more information.
 
 
 ### What I'm Currently Learning
-- Data Structures and Algorithms for better problem-solving.
-- VIM motions for greater productivity.
+- Data Structures and Algorithms
+- Go
+- Kubernetes
 
 ### What I Plan To Learn Next:
 - Typescript
