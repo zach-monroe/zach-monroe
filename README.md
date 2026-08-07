@@ -1,52 +1,32 @@
 # Zach Monroe
 
-Self-taught and aspiring Full Stack Dev.
+System Integration Engineer @ Leidos.
+Spearheading the future of ATC in CONUS. Helping enterprise customers meet technical objectives via custom solutions and cross-functional collaboration.
 
 ## My Favorite Project
-[Better Reads v2](https://github.com/zach-monroe/betterReadsv2)
+[zetl](https://github.com/zach-monroe/zetl)
 
 #### Summary:
-A full-stack booknotes web-app with a twist.
+A Go microservice running on a K8s cluster hosted on two arch linux machines in my home office. PostgreSQL for database. ArgoCD for CI/CD. Grafana for monitoring.
+zetl is a web app that allows users to record their favorite quotes for others to see.
 Users can create their own compendium in animated notebooks. ([This was inspired by famous author Ryan Holliday](https://www.youtube.com/watch?v=gT1EExZkzMM).)
 
-#### Features:
-- Users can create unique profiles and posts about their favorite books. (These posts are called "Reads" and users have CRUD functionality)
-- Users can add "highlights" to their Reads, which render in an animated flipbook others can access. Users can edit their flipbooks and add new entries.
 
 Checkout the repo (linked above) for more information.
 
 ---
 
 
-### What I'm Currently Learning
-- Data Structures and Algorithms
+### Technologies I Am Using Personally and Professionally
 - Go
 - Kubernetes
+- AI Driven Development (Claude Code)
+- Python
+- Shell Scripting
 
 ### What I Plan To Learn Next:
-- Typescript
-
----
-
-#### Tools I'm Currently Using
-
-- Front-End:
-  - React
-  - Tailwind
-  - Vanilla HTML CSS and JS
-
-- Back-End:
-    - Node/Express
-    - Django
-
-- Database:
-    - Postgresql
-  
-- Environment:
-  - Neovim
-
-- OS:
-    - Debian (checkout my [dotfiles](https://github.com/zach-monroe/dotfiles))
+- Agent Orchestration/Multi-Agent workflows.
+- AWS/Terraform
 
 
 
