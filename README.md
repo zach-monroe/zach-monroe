@@ -1,7 +1,7 @@
 # Zach Monroe
 
 System Integration Engineer @ Leidos.
-Spearheading the future of ATC in CONUS. Helping enterprise customers meet technical objectives via custom solutions and cross-functional collaboration.
+Spear-heading the future of ATC in CONUS. Helping enterprise customers meet technical objectives via custom solutions and cross-functional collaboration.
 
 ## My Favorite Project
 [zetl](https://github.com/zach-monroe/zetl)
